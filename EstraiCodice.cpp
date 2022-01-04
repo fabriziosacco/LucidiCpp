@@ -1,3 +1,5 @@
+// F. Sacco: dato un file in markdown (.md o anche .txt) estrae il codice nel file indicato 
+// Ho estratto il codice da LucidiCpp.md in Codice.cpp
 #include <iostream>
 #include <fstream>
 using namespace std;
