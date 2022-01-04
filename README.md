@@ -1,5 +1,5 @@
 # LucidiCpp
-## Appunti di C++ per classi quarte informatica. 
+## Appunti di C++ per classi quarte informatica 
 ### Prerequisito: buona conoscenza del C
-#### .md scritto con Typeora
-#### .pdf, .epub e .html ricavati con Typedoc o con pandoc
+#### .md scritto con Typora
+#### .pdf, .epub e .html ricavati con Typedoc e/o con pandoc
