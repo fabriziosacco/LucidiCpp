@@ -3,7 +3,7 @@
 using namespace std;
 #define LSTR 256
 int main() {
-	char fileinput[LSTR],fileoutput[LSTR], str[LSTR];
+	char fileinput[LSTR],fileoutput[LSTR], str[LSTR+2];
 	bool codice=false;
 	cout << "Nome file .md o .txt (lettura)->";
 	cin >> fileinput;
@@ -13,7 +13,7 @@ int main() {
 	ifstream fi(fileinput);
 	ofstream fo(fileoutput);
 
-	while (fi.getline(str,512,'\n')) {
+	while (fi.getline(str,LSTR,'\n')) {
 		//cout << str;
 		string s=str;
 		if(s.find('```')!=string::npos) {
