@@ -1,4 +1,4 @@
-﻿---
+---
 title: "C++"
 author: Fabrizio Sacco
 footer: "C++ Fabrizio Sacco Lucidi C++ Gen 2021"
