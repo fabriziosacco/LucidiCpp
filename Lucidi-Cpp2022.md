@@ -60,7 +60,7 @@ geometry: margin=1in
 
 ```c
 /* Primo programma scritto in C! */
-include <stdio.h>   // OnLineCompiler:[https://www.jdoodle.com/online-compiler-c++14/]
+#include <stdio.h>   // OnLineCompiler:[https://www.jdoodle.com/online-compiler-c++14/]
 int main()
 {
 	printf("Ciao mondo\n");
@@ -71,7 +71,7 @@ int main()
 
 ## Lo stesso in C++
 ```cpp
-#include <iostream> // OnLineCompiler:[https://www.jdoodle.com/online-compiler-c++14/]
+#include <iostream> // OnLineCompiler:[https://codeboard.io/projects/302542]
 using namespace std;
 int main()
 {
