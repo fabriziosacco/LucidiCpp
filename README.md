@@ -3,4 +3,4 @@
 ### Prerequisito: buona conoscenza del C
 #### .md scritto con Typora
 #### .pdf, .epub e .html ricavati con Typedoc e/o con pandoc
-[Come usare LucidiCpp](https://youtu.be/SskgIQc3yoc)
+[Come usare LucidiCpp](https://www.youtube.com/watch?v=SyCQf9UuPAk)
